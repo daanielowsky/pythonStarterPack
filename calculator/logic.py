@@ -7,7 +7,7 @@ class Logic:
 
         operacje = operations.Operations()
         try:
-            liczba1 = int(input("Podaj pierwszą liczbę:"))
+            liczba1 = int(input("\nPodaj pierwszą liczbę:"))
             liczba2 = int(input("Podaj drugą liczbę:"))
             dzialanie = int(input("Co zamierzasz zrobić?:\n"
                                   "1. Dodawać\n"

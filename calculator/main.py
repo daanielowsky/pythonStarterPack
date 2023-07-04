@@ -2,4 +2,5 @@ import logic
 
 main = logic.Logic()
 
-main.interview()
+while(True):
+    main.interview()
